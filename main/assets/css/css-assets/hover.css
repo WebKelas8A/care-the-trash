@@ -1,0 +1,8 @@
+.services__content:hover{
+   scale: 1.03;
+   background-color: #181e1b;
+}
+.app__description:hover{
+    scale: 1.05;
+    background-color: #181e1b;
+}
